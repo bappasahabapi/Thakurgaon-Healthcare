@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "name": "Professor Dr. Lutful Kabir(Medicine)",
+        "fee": "300",
+        "description": " Chamber Time: 6PM-9PM Off Day: Everyday Open ",
+        "address": " Floor Number: 2nd, Room Number:315  ",
+        "reception": "+8801817144612  ",
+        "img": "https://image.freepik.com/free-vector/hospital-laboratory-concept_1284-5844.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Professor Dr. Zohir Islam(Surgery)",
+        "fee": "500",
+        "description": " Chamber Time: 6PM-9PM Off Day:Sunday ",
+        "address": " Floor Number: 2nd, Room Number:319  ",
+        "reception": "+8801817144617  ",
+        "img": "https://image.freepik.com/free-vector/hospital-laboratory-concept_1284-5844.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dr.Aanmul Haque(Dental)",
+        "fee": "400",
+        "description": " Chamber Time: 6 PM -9 PM Off Day: Thu & Friday Closed  ",
+        "address": " Floor Number: 2nd, Room Number:309  ",
+        "reception": "+8801817144616  ",
+        "img": "https://image.freepik.com/free-vector/hospital-laboratory-concept_1284-5844.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Dr. Rayhab Kabir(Nephrology)",
+        "fee": "300",
+        "description": " Chamber Time: 6PM-9PM Off Day: Everyday Open ",
+        "address": " Floor Number: 3rd, Room Number:415  ",
+        "reception": "+8801817144616  ",
+        "img": "https://image.freepik.com/free-vector/hospital-laboratory-concept_1284-5844.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Ferdos Khan(MBBS,MRCP(UK))",
+        "fee": "1000",
+        "description": " Chamber Time: 6PM-9PM Off Day: Friday & Monday ",
+        "address": " Floor Number: 2nd, Room Number:315  ",
+        "reception": "+8801817144612  ",
+        "img": "https://image.freepik.com/free-vector/hospital-laboratory-concept_1284-5844.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Professor Appurba Roy(Cariology)",
+        "fee": "300",
+        "description": " Chamber Time: 6PM-9PM Off Day: Everyday Open ",
+        "address": " Floor Number: 5th, Room Number:317  ",
+        "reception": "+8801817144612  ",
+        "img": "https://image.freepik.com/free-vector/hospital-laboratory-concept_1284-5844.jpg"
+    }
+    
+
+    
+   
+]
