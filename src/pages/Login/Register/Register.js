@@ -107,7 +107,7 @@ const Register = () => {
                 <div className="row mb-3">
                     <label htmlFor="inputPassword3" className="col-sm-2 col-form-label fw-bolder">Password</label>
                     <div className="col-sm-10">
-                        <input type="password" onBlur={handlePasswordChange} className="form-control" id="inputPassword3" required placeholder="Enter your Email"/>
+                        <input type="password" onBlur={handlePasswordChange} className="form-control" id="inputPassword3" required placeholder="Enter your Password"/>
                     </div>
                 </div>
                 <div className="row mb-3">
